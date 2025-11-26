@@ -1,0 +1,15 @@
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Application\bin\Debug\net8.0\MyCompany.Shop.Application.deps.json
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Application\bin\Debug\net8.0\MyCompany.Shop.Application.dll
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Application\bin\Debug\net8.0\MyCompany.Shop.Application.pdb
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Application\bin\Debug\net8.0\MyCompany.Shop.Domain.dll
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Application\bin\Debug\net8.0\MyCompany.Shop.Domain.pdb
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Application\obj\Debug\net8.0\MyCompany.Shop.Application.csproj.AssemblyReference.cache
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Application\obj\Debug\net8.0\MyCompany.Shop.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Application\obj\Debug\net8.0\MyCompany.Shop.Application.AssemblyInfoInputs.cache
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Application\obj\Debug\net8.0\MyCompany.Shop.Application.AssemblyInfo.cs
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Application\obj\Debug\net8.0\MyCompany.Shop.Application.csproj.CoreCompileInputs.cache
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Application\obj\Debug\net8.0\MyCompan.24E69150.Up2Date
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Application\obj\Debug\net8.0\MyCompany.Shop.Application.dll
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Application\obj\Debug\net8.0\refint\MyCompany.Shop.Application.dll
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Application\obj\Debug\net8.0\MyCompany.Shop.Application.pdb
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Application\obj\Debug\net8.0\ref\MyCompany.Shop.Application.dll

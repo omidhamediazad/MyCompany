@@ -1,0 +1,11 @@
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Domain\bin\Debug\net8.0\MyCompany.Shop.Domain.deps.json
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Domain\bin\Debug\net8.0\MyCompany.Shop.Domain.dll
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Domain\bin\Debug\net8.0\MyCompany.Shop.Domain.pdb
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Domain\obj\Debug\net8.0\MyCompany.Shop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Domain\obj\Debug\net8.0\MyCompany.Shop.Domain.AssemblyInfoInputs.cache
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Domain\obj\Debug\net8.0\MyCompany.Shop.Domain.AssemblyInfo.cs
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Domain\obj\Debug\net8.0\MyCompany.Shop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Domain\obj\Debug\net8.0\MyCompany.Shop.Domain.dll
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Domain\obj\Debug\net8.0\refint\MyCompany.Shop.Domain.dll
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Domain\obj\Debug\net8.0\MyCompany.Shop.Domain.pdb
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Domain\obj\Debug\net8.0\ref\MyCompany.Shop.Domain.dll

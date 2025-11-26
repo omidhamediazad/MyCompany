@@ -1,0 +1,17 @@
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Infrastructure\bin\Debug\net8.0\MyCompany.Shop.Infrastructure.deps.json
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Infrastructure\bin\Debug\net8.0\MyCompany.Shop.Infrastructure.runtimeconfig.json
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Infrastructure\bin\Debug\net8.0\MyCompany.Shop.Infrastructure.dll
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Infrastructure\bin\Debug\net8.0\MyCompany.Shop.Infrastructure.pdb
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Infrastructure\bin\Debug\net8.0\MyCompany.Shop.Domain.dll
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Infrastructure\bin\Debug\net8.0\MyCompany.Shop.Domain.pdb
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Infrastructure\obj\Debug\net8.0\MyCompany.Shop.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Infrastructure\obj\Debug\net8.0\MyCompany.Shop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Infrastructure\obj\Debug\net8.0\MyCompany.Shop.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Infrastructure\obj\Debug\net8.0\MyCompany.Shop.Infrastructure.AssemblyInfo.cs
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Infrastructure\obj\Debug\net8.0\MyCompany.Shop.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Infrastructure\obj\Debug\net8.0\MyCompan.E38168B3.Up2Date
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Infrastructure\obj\Debug\net8.0\MyCompany.Shop.Infrastructure.dll
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Infrastructure\obj\Debug\net8.0\refint\MyCompany.Shop.Infrastructure.dll
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Infrastructure\obj\Debug\net8.0\MyCompany.Shop.Infrastructure.pdb
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Infrastructure\obj\Debug\net8.0\MyCompany.Shop.Infrastructure.genruntimeconfig.cache
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Infrastructure\obj\Debug\net8.0\ref\MyCompany.Shop.Infrastructure.dll
