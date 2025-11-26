@@ -129,6 +129,9 @@
             "projectReferences": {
               "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Domain\\MyCompany.Shop.Domain.csproj": {
                 "projectPath": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Domain\\MyCompany.Shop.Domain.csproj"
+              },
+              "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Infrastructure\\MyCompany.Shop.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Infrastructure\\MyCompany.Shop.Infrastructure.csproj"
               }
             }
           }

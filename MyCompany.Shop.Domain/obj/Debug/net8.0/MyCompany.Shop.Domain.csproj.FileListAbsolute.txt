@@ -9,3 +9,4 @@ C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Domain\ob
 C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Domain\obj\Debug\net8.0\refint\MyCompany.Shop.Domain.dll
 C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Domain\obj\Debug\net8.0\MyCompany.Shop.Domain.pdb
 C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Domain\obj\Debug\net8.0\ref\MyCompany.Shop.Domain.dll
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Domain\obj\Debug\net8.0\MyCompany.Shop.Domain.sourcelink.json

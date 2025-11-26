@@ -13,3 +13,6 @@ C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Applicati
 C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Application\obj\Debug\net8.0\refint\MyCompany.Shop.Application.dll
 C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Application\obj\Debug\net8.0\MyCompany.Shop.Application.pdb
 C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Application\obj\Debug\net8.0\ref\MyCompany.Shop.Application.dll
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Application\obj\Debug\net8.0\MyCompany.Shop.Application.sourcelink.json
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Application\bin\Debug\net8.0\MyCompany.Shop.Infrastructure.dll
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Application\bin\Debug\net8.0\MyCompany.Shop.Infrastructure.pdb

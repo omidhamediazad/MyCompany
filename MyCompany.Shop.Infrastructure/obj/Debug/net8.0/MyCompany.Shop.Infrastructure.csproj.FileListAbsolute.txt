@@ -15,3 +15,4 @@ C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Infrastru
 C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Infrastructure\obj\Debug\net8.0\MyCompany.Shop.Infrastructure.pdb
 C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Infrastructure\obj\Debug\net8.0\MyCompany.Shop.Infrastructure.genruntimeconfig.cache
 C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Infrastructure\obj\Debug\net8.0\ref\MyCompany.Shop.Infrastructure.dll
+C:\Users\AsiaLapTop.com\Desktop\projects\MyCompany.Shop\MyCompany.Shop.Infrastructure\obj\Debug\net8.0\MyCompany.Shop.Infrastructure.sourcelink.json

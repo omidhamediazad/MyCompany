@@ -2053,6 +2053,7 @@
           "AutoMapper": "15.1.0",
           "FluentValidation": "12.1.0",
           "MyCompany.Shop.Domain": "1.0.0",
+          "MyCompany.Shop.Infrastructure": "1.0.0",
           "PM2.Extensions.MediaR": "2.0.0"
         },
         "compile": {

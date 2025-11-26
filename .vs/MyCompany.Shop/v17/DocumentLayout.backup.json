@@ -3,28 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Infrastructure\\Migrations\\20251126095039_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyCompany.Shop.Infrastructure\\Migrations\\20251126095039_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26747C3B-6DD9-4EF8-9A31-EFC17D631D9A}|MyCompany.Shop.Application\\MyCompany.Shop.Application.csproj|c:\\users\\asialaptop.com\\desktop\\projects\\mycompany.shop\\mycompany.shop.application\\handlers\\orders\\initpaymenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26747C3B-6DD9-4EF8-9A31-EFC17D631D9A}|MyCompany.Shop.Application\\MyCompany.Shop.Application.csproj|solutionrelative:mycompany.shop.application\\handlers\\orders\\initpaymenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CD806C5-296E-4D69-A112-B33FBEACE6CE}|MyCompany.Shop.Api\\MyCompany.Shop.Api.csproj|c:\\users\\asialaptop.com\\desktop\\projects\\mycompany.shop\\mycompany.shop.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4CD806C5-296E-4D69-A112-B33FBEACE6CE}|MyCompany.Shop.Api\\MyCompany.Shop.Api.csproj|solutionrelative:mycompany.shop.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{26747C3B-6DD9-4EF8-9A31-EFC17D631D9A}|MyCompany.Shop.Application\\MyCompany.Shop.Application.csproj|c:\\users\\asialaptop.com\\desktop\\projects\\mycompany.shop\\mycompany.shop.application\\handlers\\payment\\verfypaymenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26747C3B-6DD9-4EF8-9A31-EFC17D631D9A}|MyCompany.Shop.Application\\MyCompany.Shop.Application.csproj|solutionrelative:mycompany.shop.application\\handlers\\payment\\verfypaymenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Infrastructure\\Migrations\\20251126094639_InitialCreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyCompany.Shop.Infrastructure\\Migrations\\20251126094639_InitialCreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86ECC2C8-CE7F-4B31-B285-E72A1D878EE8}|MyCompany.Shop.Domain\\MyCompany.Shop.Domain.csproj|c:\\users\\asialaptop.com\\desktop\\projects\\mycompany.shop\\mycompany.shop.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86ECC2C8-CE7F-4B31-B285-E72A1D878EE8}|MyCompany.Shop.Domain\\MyCompany.Shop.Domain.csproj|solutionrelative:mycompany.shop.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44F8E54A-40C1-4F31-89E8-D6E47C95B0D0}|MyCompany.Shop.Infrastructure\\MyCompany.Shop.Infrastructure.csproj|c:\\users\\asialaptop.com\\desktop\\projects\\mycompany.shop\\mycompany.shop.infrastructure\\infrastructureregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44F8E54A-40C1-4F31-89E8-D6E47C95B0D0}|MyCompany.Shop.Infrastructure\\MyCompany.Shop.Infrastructure.csproj|solutionrelative:mycompany.shop.infrastructure\\infrastructureregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26747C3B-6DD9-4EF8-9A31-EFC17D631D9A}|MyCompany.Shop.Application\\MyCompany.Shop.Application.csproj|c:\\users\\asialaptop.com\\desktop\\projects\\mycompany.shop\\mycompany.shop.application\\handlers\\orders\\getorderbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26747C3B-6DD9-4EF8-9A31-EFC17D631D9A}|MyCompany.Shop.Application\\MyCompany.Shop.Application.csproj|solutionrelative:mycompany.shop.application\\handlers\\orders\\getorderbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Infrastructure\\Migrations\\20251126093956_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyCompany.Shop.Infrastructure\\Migrations\\20251126093956_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26747C3B-6DD9-4EF8-9A31-EFC17D631D9A}|MyCompany.Shop.Application\\MyCompany.Shop.Application.csproj|c:\\users\\asialaptop.com\\desktop\\projects\\mycompany.shop\\mycompany.shop.application\\features\\payments\\commands\\initpaymentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26747C3B-6DD9-4EF8-9A31-EFC17D631D9A}|MyCompany.Shop.Application\\MyCompany.Shop.Application.csproj|solutionrelative:mycompany.shop.application\\features\\payments\\commands\\initpaymentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44F8E54A-40C1-4F31-89E8-D6E47C95B0D0}|MyCompany.Shop.Infrastructure\\MyCompany.Shop.Infrastructure.csproj|c:\\users\\asialaptop.com\\desktop\\projects\\mycompany.shop\\mycompany.shop.infrastructure\\mycompany.shop.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{44F8E54A-40C1-4F31-89E8-D6E47C95B0D0}|MyCompany.Shop.Infrastructure\\MyCompany.Shop.Infrastructure.csproj|solutionrelative:mycompany.shop.infrastructure\\mycompany.shop.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{86ECC2C8-CE7F-4B31-B285-E72A1D878EE8}|MyCompany.Shop.Domain\\MyCompany.Shop.Domain.csproj|c:\\users\\asialaptop.com\\desktop\\projects\\mycompany.shop\\mycompany.shop.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86ECC2C8-CE7F-4B31-B285-E72A1D878EE8}|MyCompany.Shop.Domain\\MyCompany.Shop.Domain.csproj|solutionrelative:mycompany.shop.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD806C5-296E-4D69-A112-B33FBEACE6CE}|MyCompany.Shop.Api\\MyCompany.Shop.Api.csproj|c:\\users\\asialaptop.com\\desktop\\projects\\mycompany.shop\\mycompany.shop.api\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD806C5-296E-4D69-A112-B33FBEACE6CE}|MyCompany.Shop.Api\\MyCompany.Shop.Api.csproj|solutionrelative:mycompany.shop.api\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26747C3B-6DD9-4EF8-9A31-EFC17D631D9A}|MyCompany.Shop.Application\\MyCompany.Shop.Application.csproj|c:\\users\\asialaptop.com\\desktop\\projects\\mycompany.shop\\mycompany.shop.application\\features\\payments\\commands\\verifypaymentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26747C3B-6DD9-4EF8-9A31-EFC17D631D9A}|MyCompany.Shop.Application\\MyCompany.Shop.Application.csproj|solutionrelative:mycompany.shop.application\\features\\payments\\commands\\verifypaymentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26747C3B-6DD9-4EF8-9A31-EFC17D631D9A}|MyCompany.Shop.Application\\MyCompany.Shop.Application.csproj|c:\\users\\asialaptop.com\\desktop\\projects\\mycompany.shop\\mycompany.shop.application\\features\\orders\\commands\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26747C3B-6DD9-4EF8-9A31-EFC17D631D9A}|MyCompany.Shop.Application\\MyCompany.Shop.Application.csproj|solutionrelative:mycompany.shop.application\\features\\orders\\commands\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F8E54A-40C1-4F31-89E8-D6E47C95B0D0}|MyCompany.Shop.Infrastructure\\MyCompany.Shop.Infrastructure.csproj|c:\\users\\asialaptop.com\\desktop\\projects\\mycompany.shop\\mycompany.shop.infrastructure\\migrations\\20251126145549_renameorderamount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F8E54A-40C1-4F31-89E8-D6E47C95B0D0}|MyCompany.Shop.Infrastructure\\MyCompany.Shop.Infrastructure.csproj|solutionrelative:mycompany.shop.infrastructure\\migrations\\20251126145549_renameorderamount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26747C3B-6DD9-4EF8-9A31-EFC17D631D9A}|MyCompany.Shop.Application\\MyCompany.Shop.Application.csproj|c:\\users\\asialaptop.com\\desktop\\projects\\mycompany.shop\\mycompany.shop.application\\handlers\\orders\\createorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26747C3B-6DD9-4EF8-9A31-EFC17D631D9A}|MyCompany.Shop.Application\\MyCompany.Shop.Application.csproj|solutionrelative:mycompany.shop.application\\handlers\\orders\\createorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD806C5-296E-4D69-A112-B33FBEACE6CE}|MyCompany.Shop.Api\\MyCompany.Shop.Api.csproj|c:\\users\\asialaptop.com\\desktop\\projects\\mycompany.shop\\mycompany.shop.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD806C5-296E-4D69-A112-B33FBEACE6CE}|MyCompany.Shop.Api\\MyCompany.Shop.Api.csproj|solutionrelative:mycompany.shop.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD806C5-296E-4D69-A112-B33FBEACE6CE}|MyCompany.Shop.Api\\MyCompany.Shop.Api.csproj|c:\\users\\asialaptop.com\\desktop\\projects\\mycompany.shop\\mycompany.shop.api\\controllers\\deliveriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD806C5-296E-4D69-A112-B33FBEACE6CE}|MyCompany.Shop.Api\\MyCompany.Shop.Api.csproj|solutionrelative:mycompany.shop.api\\controllers\\deliveriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86ECC2C8-CE7F-4B31-B285-E72A1D878EE8}|MyCompany.Shop.Domain\\MyCompany.Shop.Domain.csproj|c:\\users\\asialaptop.com\\desktop\\projects\\mycompany.shop\\mycompany.shop.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86ECC2C8-CE7F-4B31-B285-E72A1D878EE8}|MyCompany.Shop.Domain\\MyCompany.Shop.Domain.csproj|solutionrelative:mycompany.shop.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD806C5-296E-4D69-A112-B33FBEACE6CE}|MyCompany.Shop.Api\\MyCompany.Shop.Api.csproj|c:\\users\\asialaptop.com\\desktop\\projects\\mycompany.shop\\mycompany.shop.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD806C5-296E-4D69-A112-B33FBEACE6CE}|MyCompany.Shop.Api\\MyCompany.Shop.Api.csproj|solutionrelative:mycompany.shop.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,80 +82,197 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20251126095039_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Infrastructure\\Migrations\\20251126095039_Initial.cs",
-              "RelativeDocumentMoniker": "MyCompany.Shop.Infrastructure\\Migrations\\20251126095039_Initial.cs",
-              "ToolTip": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Infrastructure\\Migrations\\20251126095039_Initial.cs",
-              "RelativeToolTip": "MyCompany.Shop.Infrastructure\\Migrations\\20251126095039_Initial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "VerifyPaymentCommand.cs",
+              "DocumentMoniker": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Application\\Features\\Payments\\Commands\\VerifyPaymentCommand.cs",
+              "RelativeDocumentMoniker": "MyCompany.Shop.Application\\Features\\Payments\\Commands\\VerifyPaymentCommand.cs",
+              "ToolTip": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Application\\Features\\Payments\\Commands\\VerifyPaymentCommand.cs",
+              "RelativeToolTip": "MyCompany.Shop.Application\\Features\\Payments\\Commands\\VerifyPaymentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T09:50:39.92Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20251126094639_InitialCreate1.cs",
-              "DocumentMoniker": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Infrastructure\\Migrations\\20251126094639_InitialCreate1.cs",
-              "RelativeDocumentMoniker": "MyCompany.Shop.Infrastructure\\Migrations\\20251126094639_InitialCreate1.cs",
-              "ToolTip": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Infrastructure\\Migrations\\20251126094639_InitialCreate1.cs",
-              "RelativeToolTip": "MyCompany.Shop.Infrastructure\\Migrations\\20251126094639_InitialCreate1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T09:46:39.78Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "InfrastructureRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Infrastructure\\InfrastructureRegistration.cs",
-              "RelativeDocumentMoniker": "MyCompany.Shop.Infrastructure\\InfrastructureRegistration.cs",
-              "ToolTip": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Infrastructure\\InfrastructureRegistration.cs",
-              "RelativeToolTip": "MyCompany.Shop.Infrastructure\\InfrastructureRegistration.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T09:43:11.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20251126093956_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Infrastructure\\Migrations\\20251126093956_InitialCreate.cs",
-              "RelativeDocumentMoniker": "MyCompany.Shop.Infrastructure\\Migrations\\20251126093956_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Infrastructure\\Migrations\\20251126093956_InitialCreate.cs",
-              "RelativeToolTip": "MyCompany.Shop.Infrastructure\\Migrations\\20251126093956_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T09:39:59.924Z",
+              "WhenOpened": "2025-11-26T15:35:16.461Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "MyCompany.Shop.Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Api\\appsettings.json",
-              "RelativeToolTip": "MyCompany.Shop.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-25T20:33:15.716Z",
+              "Title": "VerfyPaymentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Application\\Handlers\\Payment\\VerfyPaymentHandler.cs",
+              "RelativeDocumentMoniker": "MyCompany.Shop.Application\\Handlers\\Payment\\VerfyPaymentHandler.cs",
+              "ToolTip": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Application\\Handlers\\Payment\\VerfyPaymentHandler.cs*",
+              "RelativeToolTip": "MyCompany.Shop.Application\\Handlers\\Payment\\VerfyPaymentHandler.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T15:30:45.633Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MyCompany.Shop.Infrastructure.csproj",
-              "DocumentMoniker": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Infrastructure\\MyCompany.Shop.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "MyCompany.Shop.Infrastructure\\MyCompany.Shop.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Infrastructure\\MyCompany.Shop.Infrastructure.csproj",
-              "RelativeToolTip": "MyCompany.Shop.Infrastructure\\MyCompany.Shop.Infrastructure.csproj",
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Domain\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "MyCompany.Shop.Domain\\Entities\\Payment.cs",
+              "ToolTip": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Domain\\Entities\\Payment.cs",
+              "RelativeToolTip": "MyCompany.Shop.Domain\\Entities\\Payment.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T15:13:36.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InitPaymentCommand.cs",
+              "DocumentMoniker": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Application\\Features\\Payments\\Commands\\InitPaymentCommand.cs",
+              "RelativeDocumentMoniker": "MyCompany.Shop.Application\\Features\\Payments\\Commands\\InitPaymentCommand.cs",
+              "ToolTip": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Application\\Features\\Payments\\Commands\\InitPaymentCommand.cs",
+              "RelativeToolTip": "MyCompany.Shop.Application\\Features\\Payments\\Commands\\InitPaymentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T15:08:50.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Api\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "MyCompany.Shop.Api\\Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Api\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "MyCompany.Shop.Api\\Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T15:03:37.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InitPaymentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Application\\Handlers\\Orders\\InitPaymentHandler.cs",
+              "RelativeDocumentMoniker": "MyCompany.Shop.Application\\Handlers\\Orders\\InitPaymentHandler.cs",
+              "ToolTip": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Application\\Handlers\\Orders\\InitPaymentHandler.cs",
+              "RelativeToolTip": "MyCompany.Shop.Application\\Handlers\\Orders\\InitPaymentHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T15:01:10.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20251126145549_RenameOrderAmount.cs",
+              "DocumentMoniker": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Infrastructure\\Migrations\\20251126145549_RenameOrderAmount.cs",
+              "RelativeDocumentMoniker": "MyCompany.Shop.Infrastructure\\Migrations\\20251126145549_RenameOrderAmount.cs",
+              "ToolTip": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Infrastructure\\Migrations\\20251126145549_RenameOrderAmount.cs",
+              "RelativeToolTip": "MyCompany.Shop.Infrastructure\\Migrations\\20251126145549_RenameOrderAmount.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-25T20:20:57.394Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:55:55.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateOrderHandler.cs",
+              "DocumentMoniker": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Application\\Handlers\\Orders\\CreateOrderHandler.cs",
+              "RelativeDocumentMoniker": "MyCompany.Shop.Application\\Handlers\\Orders\\CreateOrderHandler.cs",
+              "ToolTip": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Application\\Handlers\\Orders\\CreateOrderHandler.cs",
+              "RelativeToolTip": "MyCompany.Shop.Application\\Handlers\\Orders\\CreateOrderHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:46:45.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "MyCompany.Shop.Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "MyCompany.Shop.Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:44:29.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetOrderByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Application\\Handlers\\Orders\\GetOrderByIdHandler.cs",
+              "RelativeDocumentMoniker": "MyCompany.Shop.Application\\Handlers\\Orders\\GetOrderByIdHandler.cs",
+              "ToolTip": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Application\\Handlers\\Orders\\GetOrderByIdHandler.cs",
+              "RelativeToolTip": "MyCompany.Shop.Application\\Handlers\\Orders\\GetOrderByIdHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:41:00.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateOrderCommand.cs",
+              "DocumentMoniker": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Application\\Features\\Orders\\Commands\\CreateOrderCommand.cs",
+              "RelativeDocumentMoniker": "MyCompany.Shop.Application\\Features\\Orders\\Commands\\CreateOrderCommand.cs",
+              "ToolTip": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Application\\Features\\Orders\\Commands\\CreateOrderCommand.cs",
+              "RelativeToolTip": "MyCompany.Shop.Application\\Features\\Orders\\Commands\\CreateOrderCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:39:56.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeliveriesController.cs",
+              "DocumentMoniker": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Api\\Controllers\\DeliveriesController.cs",
+              "RelativeDocumentMoniker": "MyCompany.Shop.Api\\Controllers\\DeliveriesController.cs",
+              "ToolTip": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Api\\Controllers\\DeliveriesController.cs",
+              "RelativeToolTip": "MyCompany.Shop.Api\\Controllers\\DeliveriesController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:06:55.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Api\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "MyCompany.Shop.Api\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Api\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "MyCompany.Shop.Api\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:04:41.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "MyCompany.Shop.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "MyCompany.Shop.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:51:37.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Api\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "MyCompany.Shop.Api\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\AsiaLapTop.com\\Desktop\\projects\\MyCompany.Shop\\MyCompany.Shop.Api\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "MyCompany.Shop.Api\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:50:26.961Z",
               "EditorCaption": ""
             }
           ]
